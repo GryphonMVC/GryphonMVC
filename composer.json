@@ -1,7 +1,16 @@
 {
     "name": "gryphonmvc/gryphonmvc",
+    "type": "library",
+    "license": "MIT",
     "description": "PHP MVC Framework",
     "require": {
         "php": ">=5.3.0"
-    }
+    },
+    "authors": [
+        {
+            "name": "Heiko Manfrass",
+            "email": "heikomanfrass@gmail.com",
+            "role": "Admin/Developer"
+        }
+    ],
 }
