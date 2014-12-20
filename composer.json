@@ -1,0 +1,7 @@
+{
+    "name": "gryphonmvc/gryphonmvc",
+    "description": "PHP MVC Framework",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
